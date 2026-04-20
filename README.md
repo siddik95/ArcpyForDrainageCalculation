@@ -1,5 +1,5 @@
 Build with ArcGIS pro version 3.3.1\
-Python 3.5 or later\
+Python 3.5 or later
 
 # DEM to Drainage Area
 
