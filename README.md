@@ -1,3 +1,6 @@
+Build with ArcGIS pro version 3.3.1\
+Python 3.5 or later\
+
 # DEM to Drainage Area
 
 Derives an upstream contributing area raster from a bare-earth Digital Elevation Model using ArcPy.  
